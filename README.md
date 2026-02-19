@@ -1,4 +1,4 @@
-# 👁️ Isis - Steganography Tool Suite
+# 👁️ Isis - Esteganografía avanzada
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -18,6 +18,13 @@
 - **🎨 Interfaz Premium**: GUI moderna, oscura y optimizada para el flujo de trabajo rápido.
 
 ---
+
+## Requerimientos
+
+<img width="1147" height="814" alt="image" src="https://github.com/user-attachments/assets/bea90ede-bbfb-453a-967c-13d9dd29fc6d" />  
+
+<img width="1137" height="807" alt="image" src="https://github.com/user-attachments/assets/9283bf1e-4ba0-4b83-94c7-d1447b52ecf2" />
+
 
 ## 🛠️ Requerimientos
 
