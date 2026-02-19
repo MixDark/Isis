@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Binaries (FFmpeg)
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+output/
+extracted/
+*.wav
+*.pdf
+*.mp4
+*.png
+
